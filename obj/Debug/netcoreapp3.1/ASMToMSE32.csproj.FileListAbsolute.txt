@@ -1,0 +1,13 @@
+C:\Users\nicol\source\repos\ASMToMSE32\obj\Debug\netcoreapp3.1\ASMToMSE32.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\ASMToMSE32\obj\Debug\netcoreapp3.1\ASMToMSE32.AssemblyInfoInputs.cache
+C:\Users\nicol\source\repos\ASMToMSE32\obj\Debug\netcoreapp3.1\ASMToMSE32.AssemblyInfo.cs
+C:\Users\nicol\source\repos\ASMToMSE32\obj\Debug\netcoreapp3.1\ASMToMSE32.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\ASMToMSE32\bin\Debug\netcoreapp3.1\ASMToMSE32.exe
+C:\Users\nicol\source\repos\ASMToMSE32\bin\Debug\netcoreapp3.1\ASMToMSE32.deps.json
+C:\Users\nicol\source\repos\ASMToMSE32\bin\Debug\netcoreapp3.1\ASMToMSE32.runtimeconfig.json
+C:\Users\nicol\source\repos\ASMToMSE32\bin\Debug\netcoreapp3.1\ASMToMSE32.runtimeconfig.dev.json
+C:\Users\nicol\source\repos\ASMToMSE32\bin\Debug\netcoreapp3.1\ASMToMSE32.dll
+C:\Users\nicol\source\repos\ASMToMSE32\bin\Debug\netcoreapp3.1\ASMToMSE32.pdb
+C:\Users\nicol\source\repos\ASMToMSE32\obj\Debug\netcoreapp3.1\ASMToMSE32.dll
+C:\Users\nicol\source\repos\ASMToMSE32\obj\Debug\netcoreapp3.1\ASMToMSE32.pdb
+C:\Users\nicol\source\repos\ASMToMSE32\obj\Debug\netcoreapp3.1\ASMToMSE32.genruntimeconfig.cache
